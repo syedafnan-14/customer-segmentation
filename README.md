@@ -24,7 +24,7 @@ This project focuses on customer segmentation using KMeans clustering and RFM (R
    - Focused on understanding key customer groups:
      - **Loyal Customers**
      - **Champions**
-     - **Risk Customers**
+     - **At Risk Customers**
      - **New Customers**
 
 ---
@@ -34,7 +34,7 @@ This project focuses on customer segmentation using KMeans clustering and RFM (R
 - Detailed insights into customer groups:
   - **Loyal Customers**: High frequency and monetary value, recent purchases.
   - **Champions**: Very high monetary value and frequency.
-  - **Risk Customers**: Low recency and frequency, indicating potential churn.
+  - **At Risk Customers**: Low recency and frequency, indicating potential churn.
   - **New Customers**: Recently acquired, low frequency and monetary value.
 
 ---
