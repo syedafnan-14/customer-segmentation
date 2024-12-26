@@ -66,4 +66,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ![Project Screenshot](Project_Screenshot.png)
-[Project_Demo](https://github.com/syedafnan-14/customer-segmentation)
+[Project_Demo](https://huggingface.co/spaces/blacksw0rd/Customer_Segmentation)
